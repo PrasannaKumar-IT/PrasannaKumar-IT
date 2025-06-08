@@ -84,12 +84,6 @@
 
 <p align="center">
 
-  <img src="https://leetcard.jacoblin.cool/PrasannaKumar_Saravanan?theme=unicorn&ext=activity&show_rank=true&show_avatar=true&animation=true" alt="LeetCode Stats" />
-
-</p>
-
-<p align="center">
-
   <img src="https://leetcard.jacoblin.cool/PrasannaKumar_Saravanan?theme=light&ext=heatmap" alt="LeetCode Daily Stats" />
 
 </p>
