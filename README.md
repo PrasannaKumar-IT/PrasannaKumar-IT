@@ -71,15 +71,27 @@
 
 ---
 
-<h2 align="center">📈 GitHub & LeetCode Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrasannaKumar-IT&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrasannaKumar-IT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+---
+
+<h2 align="center">🧠 LeetCode Performance</h2>
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/PrasannaKumar_Saravanan?ext=activity&theme=light&font=baloo" alt="LeetCode Stats" />
+
+  <img src="https://leetcard.jacoblin.cool/PrasannaKumar_Saravanan?theme=unicorn&ext=activity&show_rank=true&show_avatar=true&animation=true" alt="LeetCode Stats" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://leetcard.jacoblin.cool/PrasannaKumar_Saravanan?theme=light&ext=heatmap" alt="LeetCode Daily Stats" />
+
 </p>
 
 ---
